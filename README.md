@@ -98,9 +98,9 @@ print(classification_report(y_test,x_test_predictions))
 print('''Syed Mokthiyar S M 
 212222230156''')
 
-img = image.load_img('rain.jpg')
+img = image.load_img('four.jpg')
 type(img)
-img = image.load_img('rain.jpg')
+img = image.load_img('four.jpg')
 img_tensor = tf.convert_to_tensor(np.asarray(img))
 img_28 = tf.image.resize(img_tensor,(28,28))
 img_28_gray = tf.image.rgb_to_grayscale(img_28)
@@ -136,7 +136,8 @@ Include confusion matrix here
 
 ### New Sample Data Prediction
 
-Include your sample input and output for your hand written images.
+![Screenshot 2024-09-13 111528](https://github.com/user-attachments/assets/adaa1de5-dce1-4e78-bbf4-6208d66f041c)
+
 
 ## RESULT
 Include your result here.
