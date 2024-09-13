@@ -123,20 +123,24 @@ print(x_single_prediction)
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
+![Screenshot 2024-09-13 111958](https://github.com/user-attachments/assets/324f3b2f-5a77-4105-a1a5-0beca72136e3)
+![Screenshot 2024-09-13 112006](https://github.com/user-attachments/assets/5d29f213-3b3f-4e94-b0e0-be77fdf1137f)
+![Screenshot 2024-09-13 112013](https://github.com/user-attachments/assets/0b293e77-75ca-47ce-bf21-94a63f296a17)
 
-Include your plot here
 
 ### Classification Report
 
-Include Classification Report here
+![Screenshot 2024-09-13 111918](https://github.com/user-attachments/assets/0f9c3efb-2742-4132-92f8-d5127768571e)
+
 
 ### Confusion Matrix
 
-Include confusion matrix here
+![Screenshot 2024-09-13 111645](https://github.com/user-attachments/assets/716abf84-1c54-4619-8ed0-75b62fe02c3c)
+
 
 ### New Sample Data Prediction
 
-![Screenshot 2024-09-13 111528](https://github.com/user-attachments/assets/adaa1de5-dce1-4e78-bbf4-6208d66f041c)
+![Screenshot 2024-09-13 111814](https://github.com/user-attachments/assets/59ce1d72-289e-442a-9949-9dc61ccf1fda)
 
 
 ## RESULT
